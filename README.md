@@ -5,6 +5,13 @@ Recently thought about the app "BeReal" and how each user is prompted to take a 
 - Split up users by friend groups. This seems to exactly be "community detection".
 
 Algorithms:
-	- Louvian Method
-	- Girvan-Newman
-	- Label Propagation
+
+- Louvian Method
+- Girvan-Newman
+- Label Propagation
+
+Python libraries:
+
+- [NetworkX](https://networkx.org/documentation/stable/)
+	- Has some example datasets for testing!
+- [igraph](https://python.igraph.org/en/stable/)
